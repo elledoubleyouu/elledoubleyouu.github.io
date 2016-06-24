@@ -73,7 +73,7 @@
 /*--------Day 1 starts here---------*/
 
 #one .content {
-  background-color: yellow;
+  background-color: #5DADE2;
   padding: 15rem 0 12rem 0;
 }
 
@@ -83,7 +83,7 @@
   font-size: 7em;
   font-weight: 700;
   line-height: 1.25em;
-  color: 000000;
+  color: ffffff;
   margin-top: 50px;
   overflow: hidden;
 
@@ -97,7 +97,7 @@
   margin: auto;
   line-height: 1.85em;
   margin-top: 25px;
-  color: black;
+  color: #D6EAF8;
   overflow: hidden;
 } 
 
@@ -111,12 +111,12 @@
 }
 
 #one a {
-  color: orangered;
+  color: #FF5733;
 }
 
 #one a:hover {
   text-decoration: none;
-  color: slategrey;
+  color: 000000;
 }
 
 
