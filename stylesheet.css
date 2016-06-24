@@ -26,7 +26,7 @@
 }
 
 .nav li {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   font-size: .75em;
   color: slategrey;
   text-transform: uppercase;
@@ -59,7 +59,7 @@
 }
 
 .day {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   letter-spacing: 2px;
   border: 2px solid #151515;
   width: 30px;
@@ -78,7 +78,7 @@
 }
 
 #one .firstfont {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   letter-spacing: 5px;
   font-size: 7em;
   font-weight: 700;
@@ -102,7 +102,7 @@
 } 
 
 #one .colophon {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   font-size: .75em;
   line-height: 2.5em;
   margin: 10rem 0 0 0;
