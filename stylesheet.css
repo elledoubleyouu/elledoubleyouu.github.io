@@ -263,7 +263,6 @@
 /*--------Day 4 starts here---------*/
 
 #four .content {
-  
   background-color: whitesmoke;
   padding: 15rem 0 12rem 0;
 }
@@ -274,8 +273,8 @@
   letter-spacing: 10px;
   line-height: 1.1em;
   color: #70B912;
-  width: 90%;
-  margin: auto;
+  width: 95%;
+  margin-top: 25px;
   padding-bottom: 50px;
   overflow: hidden;
 }
@@ -284,10 +283,10 @@
   font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
   font-size: 2em;
-  line-height: 1.75em;
+  line-height: 1em;
   color: slategray;
   width: 95%;
-  margin-top: 25px;
+  margin-top: 30px;
 }
 
 
