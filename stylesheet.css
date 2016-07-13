@@ -214,7 +214,7 @@
 
 #three hr {
   width: 8%;
-  border: 0.5px solid #EAEAEF;
+  border: .25px solid #EAEAEF;
 }
 
 #three .secondfont {
@@ -229,7 +229,7 @@
 } 
 
 #author {
-  font-family: 'Open Source Condensed', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-style: italic;
   color: #EAEAEF;
 }
