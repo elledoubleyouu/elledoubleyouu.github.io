@@ -203,7 +203,7 @@
   font-family: 'Playfair Display', serif;
   font-size: 3em;
   font-weight: 700;
-  letter-spacing: 8px;
+  letter-spacing: 3px;
   line-height: 1.25em;
   color: #F9C516;
   overflow: hidden;
@@ -230,7 +230,7 @@
 #three .author {
   font-family: 'Playfair Display', serif;
   font-style: italic;
-  color: #EAEAEF;
+  color: #FFFFFF;
   font-weight: 100;
   font-size: 1.5em;
   letter-spacing: 1px;
