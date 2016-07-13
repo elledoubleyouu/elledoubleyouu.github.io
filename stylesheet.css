@@ -190,7 +190,7 @@
 }
 
 #three .day {
-  color: #FFFFFF;
+  color: #EAEAEF;
   border: 2px solid snow;
 }
 
@@ -214,7 +214,7 @@
 
 #three hr {
   width: 8%;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #EAEAEF;
 }
 
 #three .secondfont {
@@ -225,6 +225,7 @@
   font-size: 1.25em;
   line-height: 1.75em;
   color: #FFFFFF;
+  text-align: justify;
 } 
 
 #cat {
