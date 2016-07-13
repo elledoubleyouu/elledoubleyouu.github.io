@@ -96,8 +96,7 @@
 #one .secondfont {
   font-family: 'Ubuntu Mono', serif;
   font-size: 1.25em;
-  width: 75%;
-  margin: auto;
+  width: 100%;
   line-height: 1.85em;
   margin-top: 25px;
   color: #000000;
