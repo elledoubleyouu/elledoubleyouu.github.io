@@ -275,16 +275,11 @@
   line-height: 1em;
   color: #9DB0C6;
   width: 95%;
-  text-align: center;
+  text-justify: auto;
   margin-top: 30px;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 300px;
+  padding-right: 300px;
   overflow: hidden;
-}
-
-#four p
-{
-    line-height: 4em;
 }
 
 #four .colophon {
