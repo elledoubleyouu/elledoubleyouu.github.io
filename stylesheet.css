@@ -268,29 +268,21 @@
   padding: 15rem 0 12rem 0;
 }
 
-.test {
-  margin-top: 5em;
-}
-
 #four .firstfont {
+  font-family: 'Monotone', cursive;
+  font-size: 4.75em;
+  letter-spacing: 10px;
+  line-height: 1.1em;
+  color: #70B912;
   width: 90%;
   margin: auto;
   overflow: hidden;
 }
 
-#four .firstfont h2 {
-  font-family: 'Londrina Outline', sans-serif;
-  font-size: 4.75em;
-  letter-spacing: 10px;
-  line-height: 1.1em;
-  margin: 0;
-  color: blue;
-}
-
 #four .secondfont {
-  font-family: Alegreya, serif;
+  font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
-  font-size: 1.15em;
+  font-size: 1em;
   line-height: 1.75em;
   color: slategray;
   padding-top: 50px;
