@@ -190,7 +190,7 @@
 }
 
 #three .day {
-  color: snow;
+  color: #FFFFFF;
   border: 2px solid snow;
 }
 
@@ -202,7 +202,7 @@
 #three .firstfont  {
         
   font-family: 'Forum', cursive;
-  font-size: 1.25em;
+  font-size: 2em;
   letter-spacing: 8px;
   line-height: 1.25em;
   color: #FFFFFF;
@@ -213,7 +213,7 @@
 
 #three hr {
   width: 8%;
-  border: 1px solid snow;
+  border: 1px solid #FFFFFF;
 }
 
 #three .secondfont {
