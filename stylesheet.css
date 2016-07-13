@@ -286,69 +286,13 @@
   line-height: 1em;
   color: slategray;
   width: 95%;
+  padding: 50px;
   margin-top: 30px;
+  overflow: hidden;
 }
-
-
-
-/*--------Tablet Media Query-------*/
-
-@media only screen and (min-width : 768px) {
-
-#four .firstfont h2{
-  font-size: 10em;
-  }
-}
-
-
-/*--------Desktop Media Query-------*/
-
-@media only screen and (min-width : 992px)  {
-
-#four .row {
-  margin-bottom: 15em;
-}
-
-#four .firstfont {
-  position: absolute;
-  margin: 0 auto; 
-  left: 0;
-  right: 0;
-  width: 70%;
-  display: inline-block;
-}
-
-#four .firstfont h2{           
-  z-index: 1;
-} 
-
-  #four .firstfont h2:nth-child(1) {
-  left: 0px; }
-  #four .firstfont h2:nth-child(2) {
-  text-align: center;
-    top: 160px; }
-  #four .firstfont h2:nth-child(3) {
-  text-align: right;
-    top: 318px;}
-
-
-#four .secondfont {
-  float: left;
-  position: relative;
-  width: 70%;
-  padding-top: 20px;
-  padding-left: 40px;
-  z-index: 2;
-  margin-bottom: 15em;
-} 
-
-
-}
-
-/*------End Media Query-----*/
 
 #four .colophon {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   color: black;
   font-size: .75em;
   line-height: 2.5em;
