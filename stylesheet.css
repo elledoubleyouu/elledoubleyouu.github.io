@@ -282,6 +282,11 @@
   overflow: hidden;
 }
 
+#four p
+{
+    line-height: 4em;
+}
+
 #four .colophon {
   font-family: Heebo, sans-serif;
   color: black;
