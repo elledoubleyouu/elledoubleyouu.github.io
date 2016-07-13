@@ -222,10 +222,10 @@
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
-  font-size: 1.25em;
+  font-size: 1.5em;
   line-height: 1.75em;
   color: #EAEAEF;
-  text-align: justify;
+  text-align: justify center;
 } 
 
 #cat {
