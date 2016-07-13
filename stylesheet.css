@@ -184,7 +184,6 @@
 /*--------Day 3 starts here---------*/
 
 #three .content {
-  
   background-color: #5B537C;
   padding: 15rem 0 12rem 0;
 }
@@ -208,7 +207,7 @@
   color: #FEBD02;
   overflow: hidden;
   margin-bottom: 30px;
-
+  margin-top: 25px;
 } 
 
 #three hr {
@@ -275,14 +274,14 @@
   color: #70B912;
   width: 95%;
   margin-top: 25px;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
   overflow: hidden;
 }
 
 #four .secondfont {
   font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
-  font-size: 2em;
+  font-size: 1.5em;
   line-height: 1em;
   color: slategray;
   width: 95%;
