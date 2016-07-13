@@ -77,6 +77,13 @@
   padding: 15rem 0 12rem 0;
 }
 
+#one .row {
+  width: 80%;
+  margin: auto;
+  margin-top: 75px;
+  padding-right: 10px;
+}
+
 #one .firstfont {
   font-family: Heebo, sans-serif;
   letter-spacing: 5px;
@@ -124,13 +131,6 @@
 #two .content {
   background-color: #DAE0E4;
   padding: 15rem 0 12rem 0;
-}
-
-#two .row {
-  width: 80%;
-  margin: auto;
-  margin-top: 75px;
-  padding-right: 10px;
 }
 
 #two .firstfont {
