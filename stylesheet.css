@@ -7,7 +7,7 @@
 
 .row {
   width: 100%;
-  margin: 0;
+  margin: 75px auto auto auto;
   overflow: hidden;
 }
 
@@ -193,11 +193,6 @@
   border: 2px solid #EAEAEF;
 }
 
-#three .row {
-  width: 90%;
-  margin: 75px auto auto auto;
-}
-
 #three .firstfont  {
   font-family: 'Forum', serif;
   font-size: 3em;
@@ -255,20 +250,11 @@
   color: #e6ff5d;
 }
 
-
-
-
-
 /*--------Day 4 starts here---------*/
 
 #four .content {
   background-color: #E1F0F8;
   padding: 15rem 0 12rem 0;
-}
-
-#four .row {
-  width: 90%;
-  margin: 75px auto auto auto;
 }
 
 #four .firstfont {
