@@ -191,7 +191,7 @@
 
 #three .day {
   color: #EAEAEF;
-  border: 2px solid snow;
+  border: 2px solid #EAEAEF;
 }
 
 #three .row {
@@ -224,7 +224,7 @@
   letter-spacing: 1px;
   font-size: 1.25em;
   line-height: 1.75em;
-  color: #FFFFFF;
+  color: #EAEAEF;
   text-align: justify;
 } 
 
@@ -235,8 +235,8 @@
 
 
 #three .colophon {
-  font-family: Montserrat, sans-serif;
-  color: snow;
+  font-family: Roboto, sans-serif;
+  color: #EAEAEF;
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
