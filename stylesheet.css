@@ -262,7 +262,7 @@
 /*--------Day 4 starts here---------*/
 
 #four .content {
-  background-color: #CDCFCB;
+  background-color: #E1F0F8;
   padding: 15rem 0 12rem 0;
 }
 
@@ -273,7 +273,7 @@
 
 #four .firstfont {
   font-family: 'Monoton', cursive;
-  font-size: 4em;
+  font-size: 4.25em;
   letter-spacing: 10px;
   line-height: 1.1em;
   color: #99E33B;
@@ -285,12 +285,14 @@
 #four .secondfont {
   font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
-  font-size: 1em;
+  font-size: 1.25em;
   line-height: 1em;
   color: #9DB0C6;
   width: 95%;
   text-align: center;
   margin-top: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
   overflow: hidden;
 }
 
