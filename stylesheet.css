@@ -200,7 +200,6 @@
 }
 
 #three .firstfont  {
-        
   font-family: 'Forum', cursive;
   font-size: 3em;
   font-weight: 700;
@@ -229,8 +228,7 @@
 } 
 
 #three .author {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-style: italic;
+  font-family: 'Forum', cursive;
   color: #EAEAEF;
   font-size: 1em;
   letter-spacing: 1px;
