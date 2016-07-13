@@ -228,9 +228,10 @@
   text-align: justify center;
 } 
 
-#cat {
-  text-decoration: line-through;
-  color: #e6ff5d;
+#author {
+  font-family: 'Forum', cursive;
+  font-style: italic;
+  color: #EAEAEF;
 }
 
 
