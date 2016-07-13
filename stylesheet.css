@@ -98,8 +98,7 @@
 
 #one .secondfont {
   font-family: 'Ubuntu Mono', serif;
-  font-size: 1.5em;
-  font-weight: 400;
+  font-size: 1em;
   width: 75%;
   margin: auto;
   line-height: 1.85em;
@@ -135,21 +134,24 @@
 
 #two .firstfont {
   font-family: 'Raleway', sans serif;
-  font-size: 5em;
-  line-height: 1.15em;
-  color: black;
+  letter-spacing: 5px;
+  font-size: 7em;
+  font-weight: 700;
+  line-height: 1.25em;
+  color: #000000;
+  margin-top: 25px;
   overflow: hidden;
-  padding-bottom: 15px;
-
 } 
 
 #two .secondfont {
   font-family: 'Noticia Text', serif;
-  font-style: italic;
   font-size: 1.5em;
-  line-height: 1.75em;
-  color: black;
-  padding-top: 15px;
+  font-weight: 400;
+  width: 75%;
+  margin: auto;
+  line-height: 1.85em;
+  margin-top: 25px;
+  color: #000000;
 
 } 
 
