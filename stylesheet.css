@@ -24,11 +24,11 @@
 }
 
 .nav li {
-  font-family: Heebo, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: .75em;
   color: slategrey;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 3px;
 }
 
