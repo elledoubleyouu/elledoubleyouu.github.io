@@ -185,7 +185,7 @@
 
 #three .content {
   
-  background-color: hotpink;
+  background-color: #5B537C;
   padding: 15rem 0 12rem 0;
 }
 
@@ -201,11 +201,11 @@
 
 #three .firstfont  {
         
-  font-family: 'Forum', serif;
+  font-family: 'Forum', cursive;
   font-size: 1.25em;
   letter-spacing: 8px;
   line-height: 1.25em;
-  color: snow;
+  color: #FFFFFF;
   overflow: hidden;
   margin-bottom: 30px;
 
@@ -218,12 +218,12 @@
 
 #three .secondfont {
   margin-top: 30px;
-  font-family: 'Open Sans Condensed';
+  font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   font-size: 1.25em;
   line-height: 1.75em;
-  color: snow;
+  color: #FFFFFF;
 } 
 
 #cat {
