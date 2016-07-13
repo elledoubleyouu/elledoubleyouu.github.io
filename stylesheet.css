@@ -11,12 +11,6 @@
   overflow: hidden;
 }
 
-p
-{
-    text-indent: 3em;
-    line-height: 2.5 em;
-}
-
 /*--------Navigation style starts here---------*/
 
 .nav {
@@ -135,6 +129,11 @@ p
 #two .content {
   background-color: #DAE0E4;
   padding: 15rem 0 12rem 0;
+}
+
+#two p
+{
+    line-height: 3em;
 }
 
 #two .firstfont {
