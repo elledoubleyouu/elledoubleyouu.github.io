@@ -262,7 +262,7 @@
 /*--------Day 4 starts here---------*/
 
 #four .content {
-  background-color: whitesmoke;
+  background-color: #CDCFCB;
   padding: 15rem 0 12rem 0;
 }
 
@@ -285,11 +285,11 @@
 #four .secondfont {
   font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
-  font-size: 1.5em;
+  font-size: 1em;
   line-height: 1em;
-  color: slategray;
+  color: #9DB0C6;
   width: 95%;
-  padding: 50px;
+  text-align: center;
   margin-top: 30px;
   overflow: hidden;
 }
