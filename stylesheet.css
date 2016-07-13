@@ -270,22 +270,22 @@
 
 #four .firstfont {
   font-family: 'Monoton', cursive;
-  font-size: 4.75em;
+  font-size: 4em;
   letter-spacing: 10px;
   line-height: 1.1em;
   color: #70B912;
   width: 90%;
   margin: auto;
+  padding-bottom: 50px;
   overflow: hidden;
 }
 
 #four .secondfont {
   font-family: 'Assistant', sans-serif;
   letter-spacing: 1px;
-  font-size: 1em;
+  font-size: 2em;
   line-height: 1.75em;
   color: slategray;
-  padding-top: 50px;
   width: 95%;
   margin-top: 25px;
 }
