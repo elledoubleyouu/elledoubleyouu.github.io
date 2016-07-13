@@ -266,6 +266,11 @@
   padding: 15rem 0 12rem 0;
 }
 
+#four .row {
+  width: 90%;
+  margin: 75px auto auto auto;
+}
+
 #four .firstfont {
   font-family: 'Monoton', cursive;
   font-size: 4em;
