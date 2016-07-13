@@ -98,7 +98,7 @@
 
 #one .secondfont {
   font-family: 'Ubuntu Mono', serif;
-  font-size: 1em;
+  font-size: 1.25em;
   width: 75%;
   margin: auto;
   line-height: 1.85em;
@@ -108,7 +108,7 @@
 
 #one .colophon {
   font-family: Heebo, sans-serif;
-  font-size: .75em;
+  font-size: 1em;
   line-height: 2.5em;
   margin: 10rem 0 0 0;
   padding: 0 5rem 0 5rem;
@@ -157,7 +157,7 @@
 
 #two .colophon {
   font-family: Heebo, sans-serif;
-  font-size: .75em;
+  font-size: 1em;
   line-height: 2.5em;
   margin: 10rem 0 0 0;
   padding: 0 5rem 0 5rem;
