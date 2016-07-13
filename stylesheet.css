@@ -78,12 +78,12 @@
 #one .row {
   width: 80%;
   margin: auto;
-  margin-top: 75px;
   padding-right: 10px;
 }
 
 #one .firstfont {
   font-family: Heebo, sans-serif;
+  margin-top: 25px;
   letter-spacing: 5px;
   font-size: 7em;
   font-weight: 700;
