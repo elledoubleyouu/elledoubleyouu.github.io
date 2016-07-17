@@ -315,16 +315,16 @@
 
 #five .firstfont  {
   padding: 50px;
-  font-family: 'Arima Madurai', cursive;;
-  width: 300px;
+  font-family: 'Arima Madurai', cursive;
+  font-size: 4em;
   margin: auto;
-  border: 5px solid #CBE7FA;
+  color: #CBE7FA;
 } 
 
 #five .secondfont {
   font-family: Lora, serif;
-  letter-spacing: 4px;
   font-size: .85em;
+  letter-spacing: 4px;
   line-height: 2em;
   width: 300px;
   margin: 50px auto 75px auto;
