@@ -75,9 +75,16 @@
   padding: 15rem 0 12rem 0;
 }
 
+#one .container-fluid {
+  padding: 0;
+  overflow: hidden;
+
+}
+
 #one .row {
-  width: 100%;
-  margin: auto;
+  width: 95%;
+  margin: 75px auto auto auto;
+  overflow: hidden;
 }
 
 #one .firstfont {
