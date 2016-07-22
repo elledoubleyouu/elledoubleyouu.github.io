@@ -133,6 +133,7 @@
 #two .content {
   background-color: #DAE0E4;
   padding: 15rem 0 12rem 0;
+  margin-left: 50px;
 }
 
 #two p
@@ -157,7 +158,6 @@
   font-weight: 400;
   width: 75%;
   margin-top: 50px;
-  margin-left: 50px;
   text-justify: auto;
   line-height: 1.85em;
   color: #000000;
@@ -170,7 +170,6 @@
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
-  margin-left: 50px;
   text-justify: auto;
   line-height: 1.85em;
   color: #000000;
@@ -182,8 +181,7 @@
   font-style: normal;
   font-size: 1.5em;
   font-weight: 400;
-  width: 75%;
-  margin-left: 50px;
+  width: 75%;;
   line-height: 1em;
   color: #000000;
 } 
@@ -194,7 +192,6 @@
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
-  margin-left: 50px;
   line-height: 1em;
   color: #000000;
 } 
