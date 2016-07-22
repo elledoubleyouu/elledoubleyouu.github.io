@@ -381,9 +381,6 @@
 
 #six .content {
   background-color: #faf6f2;
-  background-position: center bottom;
-  background-size: contain;
-  background-repeat: no-repeat;
   padding: 15rem 0 12rem 0;
 }
 
@@ -405,24 +402,14 @@
 } 
 
 #six .secondfont {
-  margin-top: 25px;
+  margin-top: 10px;
   font-family: 'Unica One', cursive;
   letter-spacing: .5px;
   font-size: 1.5em;
   line-height: 1.75em;
-  color: black;
+  color: #000000;
   padding: 50px 15px;
 } 
-
-
-#six .colophon {
-  background-color: #faf6f2;
-}
-
-#six .row {
-  margin: 100px auto auto auto;
-
-}
 
 #six .colophon {
   font-family: Heebo, sans-serif;
