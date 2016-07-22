@@ -401,7 +401,7 @@
   letter-spacing: .5px;
   font-size: 2em;
   line-height: 1.75em;
-  color: #000000;
+  color: #F3CAAB;
 } 
 
 #six .colophon {
@@ -416,7 +416,7 @@
 }
 
 #six a {
-  color: orangered;
+  color: #F6710C;
 }
 
 #six a:hover {
@@ -426,9 +426,3 @@
 }
 
 /*-------End Day 6------*/
-
-
-
-#eightynine .row > *:nth-child(12) {
- left: 30%;
- top: 45%;
