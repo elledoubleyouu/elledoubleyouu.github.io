@@ -397,7 +397,7 @@
 
 #six .firstfont  {
   font-family: 'Lobster Two', cursive;
-  font-size: 1.8em;
+  font-size: 2em;
   letter-spacing: 2px;
   line-height: 1.5em;
   color: #BD3904;
@@ -409,77 +409,21 @@
   margin-top: 25px;
   font-family: 'Unica One', cursive;
   letter-spacing: .5px;
-  font-size: 1.1em;
+  font-size: 1.5em;
   line-height: 1.75em;
   color: black;
   padding: 50px 15px;
 } 
 
 
-/*------Responsive styling--------*/
-@media only screen and (min-width : 480px) {
-
 #six .colophon {
   background-color: #faf6f2;
 }
-
-#six .firstfont  {
-        
-  font-family: 'Playfair Display', serif;
-  font-size: 3em;
-  letter-spacing: 10px;
-  line-height: 1.5em;
-  color: #151515;
-
-} 
-
-#six .secondfont {
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 175px;
-  margin-top: -25px;
-  font-size: 1.25em;
-  line-height: 1.75em;
-  padding: 50px 50px;
-} 
-}
-
-
-@media only screen and (min-width : 992px)  {
-
-#six .secondfont {
-  width: 40%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -25px;
-  font-size: 1.25em;
-  line-height: 1.75em;
-  padding: 50px 50px;
-} 
-}
-
-
-@media only screen and (min-width : 1200px) {
 
 #six .row {
   margin: 100px auto auto auto;
 
 }
-
-#six .secondfont {
-  width: 33%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -25px;
-  margin-bottom: 300px;
-  font-size: 1.25em;
-  line-height: 1.75em;
-  padding: 50px 50px;
-} 
-}
-
-/*------End responsive------*/
 
 #six .colophon {
   font-family: Heebo, sans-serif;
