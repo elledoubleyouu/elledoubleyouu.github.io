@@ -147,8 +147,7 @@
   font-weight: 700;
   line-height: 1.25em;
   color: #89B4E2;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin: 25px;
   overflow: hidden;
 } 
 
@@ -167,7 +166,7 @@
 #two .secondfont-second {
   font-family: 'Noticia Text', serif;
   font-style: normal;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: 400;
   margin-top: 50px;
   width: 75%;
