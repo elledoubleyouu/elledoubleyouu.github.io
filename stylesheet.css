@@ -418,6 +418,7 @@
   letter-spacing: 2px;
   line-height: 1.5em;
   color: #000000;
+  float: left;
   overflow: hidden;
 
 } 
@@ -427,6 +428,7 @@
   letter-spacing: .5px;
   font-size: 2em;
   line-height: 1.75em;
+  float: right;
   color: #F3CAAB;
 } 
 
