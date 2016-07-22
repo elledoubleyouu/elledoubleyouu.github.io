@@ -153,6 +153,7 @@
 
 #two .secondfont-first {
   font-family: 'Noticia Text', serif;
+  font-style: italic;
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
@@ -167,10 +168,9 @@
   font-family: 'Noticia Text', serif;
   font-size: 1em;
   font-weight: 400;
-  width: 25%;
+  width: 50%;
   margin: auto;
-  line-height: 1.85em;
-  margin-top: 25px;
+  line-height: 1.5em;
   color: #000000;
 
 } 
