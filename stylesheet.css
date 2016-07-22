@@ -293,10 +293,10 @@
   line-height: 1.1em;
   color: #99E33B;
   width: 95%;
-  margin-top: 25px;
-  -ms-transform: rotate(-30deg); /* IE 9 */
-  -webkit-transform: rotate(-30deg); /* Chrome, Safari, Opera */
-  transform: rotate(-30deg);
+  margin-top: 10px;
+  -ms-transform: rotate(-25deg); /* IE 9 */
+  -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
+  transform: rotate(-25deg);
 }
 
 #four .secondfont {
