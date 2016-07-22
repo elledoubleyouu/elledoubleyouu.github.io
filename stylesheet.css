@@ -355,22 +355,27 @@
 
 .two {
   padding-bottom:30rem;
+  position: relative;
 }
 
 .three {
   padding-bottom:-10rem;
+  position: relative;
 }
 
 .four {
   padding-bottom:20rem;
+  position: relative;
 }
 
 .five { 
   padding-bottom:-30rem;
+  position: relative;
 }
 
 .six {
   padding-bottom:15rem;
+  position: relative;
 }
 
 #five .colophon {
