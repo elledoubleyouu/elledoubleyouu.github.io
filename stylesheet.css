@@ -408,12 +408,11 @@
   font-size: 1.5em;
   line-height: 1.75em;
   color: #000000;
-  padding: 50px 15px;
 } 
 
 #six .colophon {
   font-family: Heebo, sans-serif;
-  color: slategrey;
+  color: #672105;
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
@@ -428,7 +427,7 @@
 
 #six a:hover {
   text-decoration: none;
-  color: slategrey;
+  color: #672105;
 }
 
 /*-------End Day 6------*/
