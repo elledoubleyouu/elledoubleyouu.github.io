@@ -380,7 +380,6 @@
 /*--------Day 6 starts here---------*/
 
 #six .content {
-  background: url(../images/desert.jpg);
   background-color: #faf6f2;
   background-position: center bottom;
   background-size: contain;
@@ -397,10 +396,10 @@
 
 #six .firstfont  {
   font-family: 'Lobster Two', cursive;
-  font-size: 2em;
+  font-size: 8em;
   letter-spacing: 2px;
   line-height: 1.5em;
-  color: #BD3904;
+  color: #000000;
   overflow: hidden;
 
 } 
