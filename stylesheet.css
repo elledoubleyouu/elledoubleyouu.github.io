@@ -151,7 +151,7 @@
   overflow: hidden;
 } 
 
-#two .secondfont-first {
+#two .secondfont.first {
   font-family: 'Noticia Text', serif;
   font-style: italic;
   font-size: 1.5em;
@@ -164,7 +164,7 @@
 
 }
 
-#two .secondfont-second {
+#two .secondfont.second {
   font-family: 'Noticia Text', serif;
   font-style: normal;
   font-size: 1em;
