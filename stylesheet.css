@@ -285,7 +285,9 @@
   color: #99E33B;
   width: 95%;
   margin-top: 25px;
-  overflow: hidden;
+  -ms-transform: rotate(-30deg); /* IE 9 */
+  -webkit-transform: rotate(-30deg); /* Chrome, Safari, Opera */
+  transform: rotate(-30deg);
 }
 
 #four .secondfont {
@@ -299,9 +301,6 @@
   margin-top: -50px;
   padding-left: 100px;
   padding-right: 100px;
-  -ms-transform: rotate(-30deg); /* IE 9 */
-  -webkit-transform: rotate(-30deg); /* Chrome, Safari, Opera */
-  transform: rotate(-30deg);
 }
 
 #four .colophon {
