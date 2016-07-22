@@ -282,8 +282,13 @@
 /*--------Day 4 starts here---------*/
 
 #four .content {
-  background-color: #E1F0F8;
+  background-color: #000000;
   padding: 15rem 0 12rem 0;
+}
+
+#four .day {
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
 }
 
 #four .firstfont {
@@ -306,7 +311,7 @@
   letter-spacing: 1px;
   font-size: 1.25em;
   line-height: 1em;
-  color: #9DB0C6;
+  color: #FFFFFF;
   width: 95%;
   margin-top: -200px;
   padding-left: 100px;
@@ -315,7 +320,7 @@
 
 #four .colophon {
   font-family: Heebo, sans-serif;
-  color: black;
+  color: #FFFFFF;
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
