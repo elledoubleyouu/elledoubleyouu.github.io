@@ -148,6 +148,7 @@
   line-height: 1.25em;
   color: #89B4E2;
   overflow: hidden;
+  margin-bottom: 25px;
 } 
 
 #two .secondfont-first {
@@ -168,13 +169,10 @@
   font-style: normal;
   font-size: 1.5em;
   font-weight: 400;
-  margin-top: 50px;
   width: 75%;
   line-height: 1em;
   color: #000000;
-
 } 
-
 
 #two .colophon {
   font-family: Roboto, sans-serif;
