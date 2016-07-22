@@ -297,11 +297,11 @@
   width: 95%;
   text-justify: auto;
   margin-top: -50px;
-  padding-left: 300px;
-  padding-right: 300px;
-  -ms-transform: rotate(45deg); /* IE 9 */
-  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
-  transform: rotate(45deg);
+  padding-left: 100px;
+  padding-right: 100px;
+  -ms-transform: rotate(-30deg); /* IE 9 */
+  -webkit-transform: rotate(-30deg); /* Chrome, Safari, Opera */
+  transform: rotate(-30deg);
 }
 
 #four .colophon {
