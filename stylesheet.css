@@ -137,7 +137,7 @@
 
 #two p
 {
-    line-height: 4em;
+  line-height: 4em;
 }
 
 #two .firstfont {
@@ -157,6 +157,7 @@
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
+  text-justify: auto;
   margin: auto;
   line-height: 1.85em;
   margin-top: 25px;
@@ -297,7 +298,6 @@
   line-height: 1em;
   color: #9DB0C6;
   width: 95%;
-  text-justify: auto;
   margin-top: -50px;
   padding-left: 100px;
   padding-right: 100px;
@@ -351,7 +351,7 @@
   line-height: 2em;
   width: 95%;
   margin: auto;
-  color: #1C4656;
+  color: snow;
 } 
 
 .two {
