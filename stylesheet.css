@@ -151,7 +151,7 @@
   overflow: hidden;
 } 
 
-#two .secondfont.first {
+#two .secondfont-first {
   font-family: 'Noticia Text', serif;
   font-style: italic;
   font-size: 1.5em;
@@ -164,7 +164,7 @@
 
 }
 
-#two .secondfont.second {
+#two .secondfont-second {
   font-family: 'Noticia Text', serif;
   font-style: normal;
   font-size: 1em;
@@ -357,16 +357,25 @@
 .two {
   padding-bottom:30rem;
   position: relative;
+  -ms-transform: rotate(-5deg); /* IE 9 */
+  -webkit-transform: rotate(-5deg); /* Chrome, Safari, Opera */
+  transform: rotate(-5deg);
 }
 
 .three {
   padding-bottom:-10rem;
   position: relative;
+  -ms-transform: rotate(5deg); /* IE 9 */
+  -webkit-transform: rotate(5deg); /* Chrome, Safari, Opera */
+  transform: rotate(5deg);
 }
 
 .four {
   padding-bottom:20rem;
   position: relative;
+  -ms-transform: rotate(5deg); /* IE 9 */
+  -webkit-transform: rotate(5deg); /* Chrome, Safari, Opera */
+  transform: rotate(5deg);
 }
 
 .five { 
