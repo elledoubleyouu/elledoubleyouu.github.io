@@ -343,7 +343,7 @@
   color: #CBE7FA;
 } 
 
-#five .secondfont .one {
+#five .secondfont.one {
   font-family: Lora, serif;
   font-size: .85em;
   letter-spacing: 4px;
@@ -351,8 +351,7 @@
   width: 95%;
   color: #EBF9FE;
 } 
-
-.two {
+#five .secondfont.two {
   padding-bottom:10px;
 }
 
