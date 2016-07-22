@@ -353,7 +353,23 @@
 } 
 
 .two {
-  padding-bottom:10px;
+  padding-bottom:30px;
+}
+
+.three {
+  padding-bottom:-10px;
+}
+
+.four {
+  padding-bottom:20px;
+}
+
+.five { 
+  padding-bottom:-30px;
+}
+
+.six {
+  padding-bottom:15px;
 }
 
 #five .colophon {
