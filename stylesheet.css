@@ -396,30 +396,22 @@
 }
 
 #six .firstfont  {
-        
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lobster Two', cursive;
   font-size: 1.8em;
-  letter-spacing: 10px;
+  letter-spacing: 2px;
   line-height: 1.5em;
-  color: #151515;
+  color: #BD3904;
   overflow: hidden;
 
 } 
 
-#six .is {
-  font-size: .5em;
-  letter-spacing: 5px;
-  font-style: italic;
-}
-
 #six .secondfont {
-  margin-top: -15px;
-  font-family: 'Cutive Mono', sans-serif;
+  margin-top: 25px;
+  font-family: 'Unica One', cursive;
   letter-spacing: .5px;
   font-size: 1.1em;
   line-height: 1.75em;
   color: black;
-  background-color: rgba(227, 237, 233, .75);
   padding: 50px 15px;
 } 
 
@@ -490,7 +482,7 @@
 /*------End responsive------*/
 
 #six .colophon {
-  font-family: Montserrat, sans-serif;
+  font-family: Heebo, sans-serif;
   color: slategrey;
   font-size: .75em;
   line-height: 2.5em;
