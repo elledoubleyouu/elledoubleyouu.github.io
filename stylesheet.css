@@ -166,11 +166,12 @@
 
 #two .secondfont-second {
   font-family: 'Noticia Text', serif;
+  font-style: normal;
   font-size: 1em;
   font-weight: 400;
-  width: 50%;
+  width: 75%;
   margin: auto;
-  line-height: 1.5em;
+  line-height: 1em;
   color: #000000;
 
 } 
