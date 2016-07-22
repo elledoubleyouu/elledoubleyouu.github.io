@@ -284,10 +284,7 @@
   line-height: 1.1em;
   color: #99E33B;
   width: 95%;
-  margin-top: -25px;
-  -ms-transform: rotate(45deg); /* IE 9 */
-  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
-  transform: rotate(45deg);
+  margin-top: 25px;
   overflow: hidden;
 }
 
@@ -299,10 +296,12 @@
   color: #9DB0C6;
   width: 95%;
   text-justify: auto;
-  margin-top: 30px;
+  margin-top: -50px;
   padding-left: 300px;
   padding-right: 300px;
-  overflow: hidden;
+  -ms-transform: rotate(45deg); /* IE 9 */
+  -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+  transform: rotate(45deg);
 }
 
 #four .colophon {
