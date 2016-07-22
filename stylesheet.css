@@ -343,14 +343,18 @@
   color: #CBE7FA;
 } 
 
-#five .secondfont {
+#five .secondfont .one {
   font-family: Lora, serif;
   font-size: .85em;
   letter-spacing: 4px;
   line-height: 2em;
   width: 95%;
-  color: gainsboro;
+  color: #EBF9FE;
 } 
+
+.two {
+  padding-bottom:10px;
+}
 
 #five .colophon {
   font-family: Heebo, sans-serif;
