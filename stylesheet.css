@@ -133,7 +133,6 @@
 #two .content {
   background-color: #DAE0E4;
   padding: 15rem 0 12rem 0;
-  margin-left: 50px;
 }
 
 #two p
@@ -141,6 +140,9 @@
   line-height: 4em;
 }
 
+#two .row {
+    margin-left: 50px;
+}
 #two .firstfont {
   font-family: 'Raleway', sans serif;
   letter-spacing: 5px;
