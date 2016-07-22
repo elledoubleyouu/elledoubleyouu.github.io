@@ -148,7 +148,6 @@
   line-height: 1.25em;
   color: #89B4E2;
   overflow: hidden;
-  margin-bottom: 25px;
 } 
 
 #two .secondfont-first {
@@ -157,7 +156,8 @@
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
-  margin: 25px;
+  margin-top: 50px;
+  margin-left: 50px;
   text-justify: auto;
   line-height: 1.85em;
   color: #000000;
@@ -170,7 +170,19 @@
   font-size: 1.5em;
   font-weight: 400;
   width: 75%;
-  margin-left: 25px;
+  margin-left: 50px;
+  line-height: 1em;
+  color: #000000;
+} 
+
+#two .secondfont-third {
+  font-family: 'Noticia Text', serif;
+  font-style: normal;
+  font-size: 1.5em;
+  font-weight: 400;
+  width: 75%;
+  margin-left: 50px;
+  margin-top:25px;
   line-height: 1em;
   color: #000000;
 } 
