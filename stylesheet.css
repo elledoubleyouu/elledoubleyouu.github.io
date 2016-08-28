@@ -517,14 +517,11 @@
 } 
 
 #seven .secondfont {
-  font-family: 'Merriweather', serif;
-  font-style: italic;
+  font-family: 'Pinyon+Script', cursive;
   letter-spacing: .5px;
-  font-size: 1.25em;
-  line-height: 2em;
+  font-size: 1.5em;
+  line-height: 1em;
   color: snow;
-  padding: 25px 15px;
-  margin-top: 20px;
 }
 
 /*------End responsive------*/
