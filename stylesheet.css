@@ -544,7 +544,7 @@
 /*--------Day 8 starts here---------*/
 #eight .content {
 padding: 15rem 0 12rem 0;
-background: linear-gradient(270deg, #e53d10, #e5a410, #e5d310, #73d286, #308ec9, #6a6ac3, #a16ac3);
+background-color: linear-gradient(270deg, #e53d10, #e5a410, #e5d310, #73d286, #308ec9, #6a6ac3, #a16ac3);
 background-size: 1400% 1400%;
 
 -webkit-animation: AnimationName 30s ease infinite;
