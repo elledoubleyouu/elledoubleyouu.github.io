@@ -546,22 +546,26 @@
 padding: 15rem 0 12rem 0;
 background: linear-gradient(270deg, #e53d10, #e5a410, #e5d310, #73d286, #308ec9, #6a6ac3, #a16ac3);
 background-size: 1400% 1400%;
+animation-name: Rainbow;
+animation-duration: 4s;
 
--webkit-animation: AnimationName 30s ease infinite;
--moz-animation: AnimationName 30s ease infinite;
-animation: AnimationName 30s ease infinite;
+-webkit-animation: Rainbow 30s ease infinite;
+-moz-animation: Rainbow 30s ease infinite;
+animation: Rainbow 30s ease infinite;
 
-@-webkit-keyframes AnimationName {
+}
+
+@-webkit-keyframes Rainbow {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
-@-moz-keyframes AnimationName {
+@-moz-keyframes Rainbow {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
-@keyframes AnimationName { 
+@keyframes Rainbow { 
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
