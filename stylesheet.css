@@ -585,7 +585,7 @@ animation: Rainbow 30s ease infinite;
 
 #eight .secondfont {
   font-family: 'Righteous', cursive;
-  letter-spacing: .5px;
+  letter-spacing: 2.5px;
   font-size: 1.5em;
   color: snow;
 }
