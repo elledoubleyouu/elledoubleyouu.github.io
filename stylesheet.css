@@ -593,7 +593,7 @@ animation: Rainbow 30s ease infinite;
 
 #eight .colophon {
   font-family: Heebo, sans-serif;
-  color: #929190;
+  color: #000000
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
@@ -603,7 +603,7 @@ animation: Rainbow 30s ease infinite;
 }
 
 #eight a {
-  color:snow ;
+  color:snow;
 }
 
 #eight a:hover {
@@ -638,7 +638,7 @@ color: #000000;
   font-family: 'Roboto Slab', serif;
   text-align: justify;
   margin-right: 250px;
-  marign-left: 250px
+  margin-left: 250px
   font-size: 2em;
   color: #EAE9E8;
 }
