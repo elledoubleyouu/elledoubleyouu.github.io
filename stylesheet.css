@@ -626,4 +626,31 @@ padding: 15rem 0 12rem 0;
 #nine .firstfont  {
 font-family: 'Fjalla One', sans-serif;
 font-size: 3em;
+color: #000000;
+}
+
+#nine .secondfont {
+  font-family: 'Old Standard TT', serif;
+  font-size: 3em;
+  line-height: 2px;
+  color: #EAE9E8;
+}
+#nine .colophon {
+  font-family: Heebo, sans-serif;
+  color: #929190;
+  font-size: .75em;
+  line-height: 2.5em;
+  margin: 8rem 0 0 0;
+  padding: 0 1rem 0 1rem;
+  letter-spacing: 3px;
+  display: inline-block;
+}
+
+#nine a {
+  color:snow ;
+}
+
+#nine a:hover {
+  text-decoration: none;
+  color: #F9FAF7;
 }
