@@ -580,7 +580,6 @@ animation: Rainbow 30s ease infinite;
   font-family: 'Space Mono', monospace;
   font-size: 1.5em;
   letter-spacing: 1px;
-  line-height: 1.5em;
   color: snow;
 } 
 
@@ -588,7 +587,6 @@ animation: Rainbow 30s ease infinite;
   font-family: 'Righteous', cursive;
   letter-spacing: .5px;
   font-size: 1.5em;
-  line-height: 1em;
   color: snow;
 }
 
