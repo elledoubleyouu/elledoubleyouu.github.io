@@ -612,7 +612,17 @@ animation: Rainbow 30s ease infinite;
 }
 
 /*--------Day 9 starts here---------*/
-#eight .content {
+#nine .content {
 background color: #555452;
 padding: 15rem 0 12rem 0;
+}
+
+#nine .row {
+  width: 95%;
+  margin: 75px auto auto auto;
+
+}
+
+#nine .firstfont  {
+font-family: 'Fjalla One', sans-serif;
 }
