@@ -623,6 +623,11 @@ padding: 15rem 0 12rem 0;
 
 }
 
+#nine .day {
+  color: snow;
+  border: 2px solid snow;
+}
+
 #nine .firstfont  {
 font-family: 'Fjalla One', sans-serif;
 font-size: 3em;
@@ -630,7 +635,8 @@ color: #000000;
 }
 
 #nine .secondfont {
-  font-family: 'Old Standard TT', serif;
+  font-family: 'Roboto Slab', serif;
+  font-style: thin;
   font-size: 2em;
   text-justify: auto;
   color: #EAE9E8;
