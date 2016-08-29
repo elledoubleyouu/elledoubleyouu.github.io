@@ -636,9 +636,10 @@ color: #000000;
 
 #nine .secondfont {
   font-family: 'Roboto Slab', serif;
-  font-style: thin;
+  text-align: justify;
+  margin-right: 250px;
+  marign-left: 250px
   font-size: 2em;
-  text-justify: auto;
   color: #EAE9E8;
 }
 #nine .colophon {
