@@ -544,7 +544,7 @@
 /*--------Day 8 starts here---------*/
 #eight .content {
 padding: 15rem 0 12rem 0;
-background: linear-gradient(270deg, #e53d10, #e5a410, #e5d310, #0DB235, #73d286, #036FF9, #308ec9, #6a6ac3, #a16ac3);
+background: linear-gradient(270deg, #e53d10, #e5a410, #e5d310, #0DB235, #73d286, #036FF9, #308ec9, #FAF30B, #6a6ac3, #F9880F, #a16ac3, #CF3C04);
 background-size: 1400% 1400%;
 animation-name: Rainbow;
 animation-duration: 3s;
