@@ -580,7 +580,7 @@ animation: Rainbow 30s ease infinite;
   font-family: 'Space Mono', monospace;
   font-size: 1.5em;
   letter-spacing: 1px;
-  color: snow;
+  color: #FAF8F7;
 } 
 
 #eight .secondfont {
@@ -603,11 +603,16 @@ animation: Rainbow 30s ease infinite;
 }
 
 #eight a {
-  color: #151515;
+  color: #FAF8F7;
 }
 
 #eight a:hover {
   text-decoration: none;
-  color: slategrey;
+  color: #F9FAF7;
 }
 
+/*--------Day 9 starts here---------*/
+#eight .content {
+background color: #555452;
+padding: 15rem 0 12rem 0;
+}
