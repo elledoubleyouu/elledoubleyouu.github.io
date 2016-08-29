@@ -631,7 +631,8 @@ color: #000000;
 
 #nine .secondfont {
   font-family: 'Old Standard TT', serif;
-  font-size: 3em;
+  font-size: 2em;
+  text-justify: auto;
   color: #EAE9E8;
 }
 #nine .colophon {
