@@ -593,7 +593,7 @@ animation: Rainbow 30s ease infinite;
 
 #eight .colophon {
   font-family: Heebo, sans-serif;
-  color: #000000
+  color: #000000;
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
@@ -638,10 +638,11 @@ color: #000000;
   font-family: 'Roboto Slab', serif;
   text-align: justify;
   margin-right: 250px;
-  margin-left: 250px
+  margin-left: 250px;
   font-size: 2em;
   color: #EAE9E8;
 }
+
 #nine .colophon {
   font-family: Heebo, sans-serif;
   color: #929190;
