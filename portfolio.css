@@ -61,7 +61,7 @@
 #thumbs { 
   width: 100%; 
   overflow: auto; 
-  margin-top: 25px;
+  margin-top: 50px;
 }
 
 #thumbs ul { 
@@ -72,7 +72,7 @@
 #thumbs li { 
   float: left;
   display: block;
-  width:100px; height:300px;
+  width:200px; height:600px;
   margin-left: 20px; 
   background-color: #EAEBEC;
   border-style: solid;
