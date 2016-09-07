@@ -9,7 +9,7 @@
 
 .row {
   width: 100%;
-  margin: 75px auto auto auto;
+  margin: auto auto auto auto;
   overflow: hidden;
 }
 
@@ -59,19 +59,19 @@
 }
 
 #thumbs { 
-    width: 100%; 
-    overflow: auto; 
+  width: 100%; 
+  overflow: auto; 
 }
 
 ul { 
-    width: 850px;
-    list-style: none;
+  width: 850px;
+  list-style: none;
 }
 
 li { 
-    float: left;
-    display: block;
-    width:80px; height:80px;
-    margin-left: 5px; 
-    background-color: snow;
+  float: left;
+  display: block;
+  width:80px; height:80px;
+  margin-left: 5px; 
+  background-color: snow;
 }
