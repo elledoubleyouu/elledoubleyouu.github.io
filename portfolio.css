@@ -64,14 +64,16 @@
 }
 
 #thumbs ul { 
-  width: 850px;
+  width: 1000px;
   list-style: none;
 }
 
 #thumbs li { 
   float: left;
   display: block;
-  width:80px; height:80px;
-  margin-left: 5px; 
-  background-color: snow;
+  width:100px; height:100px;
+  margin-left: 20px; 
+  background-color: #EAEBEC;
+  border-style: solid;
+  border-color: #4C4B4A;
 }
