@@ -63,12 +63,12 @@
   overflow: auto; 
 }
 
-ul { 
+#thumbs ul { 
   width: 850px;
   list-style: none;
 }
 
-li { 
+#thumbs li { 
   float: left;
   display: block;
   width:80px; height:80px;
