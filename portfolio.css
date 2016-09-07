@@ -61,17 +61,18 @@
 #thumbs { 
   width: 100%; 
   overflow: auto; 
+  margin-top: 25px;
 }
 
 #thumbs ul { 
-  width: 1000px;
+  width: 500px;
   list-style: none;
 }
 
 #thumbs li { 
   float: left;
   display: block;
-  width:100px; height:100px;
+  width:100px; height:300px;
   margin-left: 20px; 
   background-color: #EAEBEC;
   border-style: solid;
