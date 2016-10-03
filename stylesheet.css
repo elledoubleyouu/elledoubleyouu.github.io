@@ -692,12 +692,12 @@ color: #606B7A;
   margin-right: 300px;
   margin-left: 300px;
   font-size: 2em;
-  color: #EAE9E8;
+  color: #414244;
 }
 
 #ten .colophon {
   font-family: Heebo, sans-serif;
-  color: #929190;
+  color: #414244;
   font-size: .75em;
   line-height: 2.5em;
   margin: 8rem 0 0 0;
@@ -707,10 +707,10 @@ color: #606B7A;
 }
 
 #ten a {
-  color:snow ;
+  color:414244 ;
 }
 
 #ten a:hover {
   text-decoration: none;
-  color: #F9FAF7;
+  color: #606B7A;
 }
