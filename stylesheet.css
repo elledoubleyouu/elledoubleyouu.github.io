@@ -662,3 +662,55 @@ color: #000000;
   text-decoration: none;
   color: #F9FAF7;
 }
+/*--------End Day 9---------*/
+/*--------Day 10 starts here---------*/
+#ten .content {
+background-color: #FFFFFF;
+padding: 15rem 0 12rem 0;
+}
+
+#ten .row {
+  width: 95%;
+  margin: 75px auto auto auto;
+
+}
+
+#ten .day {
+  color: #606B7A;
+  border: 2px solid #606B7A;
+}
+
+#ten .firstfont  {
+font-family: 'Arapey', serif;
+font-size: 3em;
+color: #606B7A;
+}
+
+#ten .secondfont {
+  font-family: 'Yantramanav', sans-serif;
+  text-align: justify;
+  margin-right: 300px;
+  margin-left: 300px;
+  font-size: 2em;
+  color: #EAE9E8;
+}
+
+#ten .colophon {
+  font-family: Heebo, sans-serif;
+  color: #929190;
+  font-size: .75em;
+  line-height: 2.5em;
+  margin: 8rem 0 0 0;
+  padding: 0 1rem 0 1rem;
+  letter-spacing: 3px;
+  display: inline-block;
+}
+
+#ten a {
+  color:snow ;
+}
+
+#ten a:hover {
+  text-decoration: none;
+  color: #F9FAF7;
+}
